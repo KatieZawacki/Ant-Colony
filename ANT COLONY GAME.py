@@ -94,8 +94,7 @@ anthill_sprites = pygame.sprite.Group(anthill)
 score = 0
 font = pygame.font.Font(None, 36)  # Font for displaying the score
 keys_pressed = {}
-# Main game loop
-# Main game loop
+
 # Main game loop
 running = True
 while running:
